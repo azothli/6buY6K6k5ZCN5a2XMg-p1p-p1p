@@ -1,4 +1,4 @@
 
-<entity bz="19200" motionZ="0" onGround="true" displayName="0" class="Player" item_id="30002" motionX="0" bx="19200" facing="-2.1261904239655" rotationYaw="-2.1261904239655" by="5" name="default" motionY="0">
+<entity bz="19200" motionZ="0" onGround="true" displayName="0" class="Player" item_id="30002" motionX="0" bx="19200" facing="3.3662216663361" rotationYaw="3.3662216663361" by="5" name="default" motionY="0">
 	<abilities/>
 </entity>
