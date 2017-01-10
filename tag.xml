@@ -1,0 +1,4 @@
+
+<pe:mcml>
+	<pe:world seed="默认名字2" world_generator="superflat" size="0" texture_pack_text="混搭材质包" texture_pack_url="http://www.paraengine.com/twiki/pub/CCWeb/RecommendedTextureListData/Paracraft32xMixed.zip" nid="" create_date="2017-1-10" texture_pack_type="official" desc="" texture_pack_path="worlds/BlockTextures/official/Paracraft32xMixed_r1.zip" rendermethod="" renderdist="" waterreflection="" totaltime="0" name="默认名字2" shadow=""/>
+</pe:mcml>
